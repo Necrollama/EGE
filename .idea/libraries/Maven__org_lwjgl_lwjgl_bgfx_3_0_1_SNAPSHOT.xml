@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.lwjgl:lwjgl-bgfx:3.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-bgfx/3.0.1-SNAPSHOT/lwjgl-bgfx-3.0.1-20161017.175344-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-bgfx/3.0.1-SNAPSHOT/lwjgl-bgfx-3.0.1-20161017.175344-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-bgfx/3.0.1-SNAPSHOT/lwjgl-bgfx-3.0.1-20161017.175344-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

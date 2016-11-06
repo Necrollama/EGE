@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.lwjgl:lwjgl-jemalloc:3.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-jemalloc/3.0.1-SNAPSHOT/lwjgl-jemalloc-3.0.1-20161017.175339-18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-jemalloc/3.0.1-SNAPSHOT/lwjgl-jemalloc-3.0.1-20161017.175339-18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-jemalloc/3.0.1-SNAPSHOT/lwjgl-jemalloc-3.0.1-20161017.175339-18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
